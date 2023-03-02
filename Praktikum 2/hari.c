@@ -1,4 +1,7 @@
 #include <stdio.h>
+// Nama File : Hari.c 
+// Deskripsi : Mengidentifikasi hari berdasarkan nilai input, akan menampilkan nama hari berdasarkan urutan angkanya
+// Pembuat  : Daffa Aly Meganendra - 24060122140140
 
 int main () {
     int h;
