@@ -1,4 +1,7 @@
 #include <stdio.h>
+// Nama File : tahanan.c 
+// Deskripsi : Mengidentifikasi nilai tahanan jika bernilai negatif dan akan menampilkan jumlah tahanan berdasarkan input
+// Pembuat  : Daffa Aly Meganendra - 24060122140140
 
 int main () {
     int t1,t2,t3, total;
