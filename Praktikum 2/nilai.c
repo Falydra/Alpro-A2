@@ -1,4 +1,7 @@
 #include <stdio.h>
+// Nama File : nilai.c 
+// Deskripsi : Mengklasifikasikan nilai dalam bentuk Karakter berdasarkan nilai input, akan menampilkan nilai karakter berdasarkan jangkauan nilainya
+// Pembuat  : Daffa Aly Meganendra - 24060122140140
 
 
 int main (void) {
