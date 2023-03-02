@@ -1,5 +1,5 @@
 #include <stdio.h>
-// Nama File : Bulan.c 
+// Nama File : operasi_aritmatika.c 
 // Deskripsi : Mengidentifikasi jenis operasi berdasarkan input karakternya kemudian akan mengoperasikan 2 buah bilangan berdasarkan jenis operasi yang dipilih
 // Pembuat  : Daffa Aly Meganendra - 24060122140140
 
