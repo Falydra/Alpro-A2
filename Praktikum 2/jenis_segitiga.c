@@ -1,4 +1,7 @@
 #include <stdio.h>
+// Nama File : jenis_segitiga.c 
+// Deskripsi : Mengidentifikasi jenis segitiga berdasarkan nilai input, akan menampilkan jenis segitiga berdasarkan panjang sisi sisinya
+// Pembuat  : Daffa Aly Meganendra - 24060122140140
 
 int main (void) {
     int x,y,z;
