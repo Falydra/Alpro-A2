@@ -1,4 +1,7 @@
 #include <stdio.h>
+// Nama File : Parabola.c 
+// Deskripsi : Menghitung dan menampilkan tinggi P bola dengan rumus y  = vo*t - x*(g*t*t)
+// Pembuat  : Daffa Aly Meganendra - 24060122140140
 
 int main() {
     int vo;
