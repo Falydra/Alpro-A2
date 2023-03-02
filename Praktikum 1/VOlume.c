@@ -1,4 +1,7 @@
 #include <stdio.h>
+// Nama File : Volume.c 
+// Deskripsi : Menghitung dan menampilkan nilai dari luas dan keliling Volume bola dengan rumus vb = 4*(phi*r*r*r) /3 dan vk = 0.5 *vb
+// Pembuat  : Daffa Aly Meganendra - 24060122140140
 
 int main () {
     int r;
