@@ -1,5 +1,5 @@
 #include <stdio.h>
-// Nama File : Jarak GLBB.c 
+// Nama File : GLBB.c 
 // Deskripsi : Menghitung dan menampilkan jarak pada GLBB dengan rumus S = vo * t + 0.5 * (a * t * t)
 // Pembuat  : Daffa Aly Meganendra - 24060122140140
 
