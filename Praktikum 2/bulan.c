@@ -1,4 +1,7 @@
 #include <stdio.h>
+// Nama File : Bulan.c 
+// Deskripsi : Mengidentifikasi bulan berdasarkan nilai input, akan menampilkan nama bulan berdasarkan urutan angkanya
+// Pembuat  : Daffa Aly Meganendra - 24060122140140
 
 int main () {
     int b;
