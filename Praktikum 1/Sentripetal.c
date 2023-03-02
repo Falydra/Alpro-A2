@@ -1,4 +1,7 @@
 #include <stdio.h>
+// Nama File : Sentripetal.c 
+// Deskripsi : Menghitung dan menampilkan nilai dari gaya sentripetal dengan rumus f = m*(v*v/r);
+// Pembuat  : Daffa Aly Meganendra - 24060122140140
 
 int main() {
     int m;
