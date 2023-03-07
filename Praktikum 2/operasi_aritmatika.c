@@ -4,10 +4,13 @@
 // Pembuat  : Daffa Aly Meganendra - 24060122140140
 
 int main (void) {
+    
+//Kamus
 
     char operasi;
     int iA, iB;
 
+//Algoritma    
     printf("Pilih operasi (a, b, c, d, e, f): ");
     scanf("%c", &operasi);
     printf("Masukan nilai iA: ");
