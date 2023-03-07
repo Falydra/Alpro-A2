@@ -1,14 +1,19 @@
 #include <stdio.h>
+// Nama File : GLBB.c 
+// Deskripsi : Menghitung dan menampilkan luas dan keliling belah layang layang
+// Pembuat  : Daffa Aly Meganendra - 24060122140140
+
 
 int main() {
-
+//Kamus
     int s1;
     int s2;
     int d1;
     int d2;
     float Keliling;
     float Luas;
-
+    
+//Algoritma
     printf("Masukan input s1: ");
     scanf("%d", &s1);
 
