@@ -4,7 +4,10 @@
 // Pembuat  : Daffa Aly Meganendra - 24060122140140
 
 int main (void) {
+ //kamus
     int x,y,z;
+    
+ //Algortima
 
 printf("Masukan nilai x: ");
 scanf("%d", &x);
