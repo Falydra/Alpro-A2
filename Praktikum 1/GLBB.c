@@ -5,11 +5,13 @@
 
 
 int main(){
+//Kamus Lokal    
     int a;
     int vo;
     int t;
     int S;
-
+    
+//Algoritma
     printf("Masukan input a: ");
     scanf("%d", &a);
 
