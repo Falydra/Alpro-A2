@@ -4,8 +4,11 @@
 // Pembuat  : Daffa Aly Meganendra - 24060122140140
 
 int main () {
+    //Kamus
     int h;
 
+        
+    //Algortima
 printf("Masukan Nomor Hari: ");
 scanf("%d", &h);
 
