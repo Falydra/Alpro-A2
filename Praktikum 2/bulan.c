@@ -4,8 +4,12 @@
 // Pembuat  : Daffa Aly Meganendra - 24060122140140
 
 int main () {
+    
+    //Kamus
     int b;
-
+    
+    
+    //Algoritma
 
     if ((b >= 1) && (b <= 12)) {
         if (b == 2) {
