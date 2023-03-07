@@ -5,8 +5,12 @@
 
 
 int main (void) {
+    
+    //Kamus
     double i;
-
+    
+    
+    //Algoritma
 
     printf("Masukan angka: ");
     scanf("%d", &i);
