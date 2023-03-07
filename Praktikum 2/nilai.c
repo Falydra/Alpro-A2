@@ -5,9 +5,10 @@
 
 
 int main (void) {
-
+//Kamus
     int i;
 
+//Algoritma
     printf("Masukan Nilai: ");
     scanf("%d", &i);
 
