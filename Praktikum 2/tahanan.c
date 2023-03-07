@@ -4,8 +4,12 @@
 // Pembuat  : Daffa Aly Meganendra - 24060122140140
 
 int main () {
+    
+//Kamus Lokal    
     int t1,t2,t3, total;
 
+    
+//Algoritma    
 printf("Masukan nilai t1: ");
 scanf("%d", &t1);
 
