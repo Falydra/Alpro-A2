@@ -4,11 +4,14 @@
 // Pembuat  : Daffa Aly Meganendra - 24060122140140
 
 int main () {
+    
+//Kamus    
     int r;
     int vb;
     int vk;
     const double phi = 3.14;
-
+    
+//Algoritma
     printf("Masukan input r: ");
     scanf("%d", &r);
 
