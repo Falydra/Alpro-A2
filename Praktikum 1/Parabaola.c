@@ -4,13 +4,15 @@
 // Pembuat  : Daffa Aly Meganendra - 24060122140140
 
 int main() {
+    
+//Kamus
     int vo;
     int t;
     const double g = 10;
     double x = 0.5;
     int y;
 
-
+//Algoritma
     printf("Masukan input vo: ");
     scanf("%d", &vo);
 
