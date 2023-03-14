@@ -5,38 +5,34 @@
 
 int main () {
 
-    //Kamus
-    int N;
-    int faktor;
+  //Kamus
+  int N, isPrime = 1;
 
-    printf("Masukan input N: ");
-    scanf("%d", &N);
+  printf("Masukan input N: ");
+  scanf("%d", &N);
+    
+    
+    
+  //Algoritma
+  if (N <= 1) {
+    isPrime = 0;
+  }
 
-    //Algoritma
-    for (int i = 1; i <= N; i ++) {
-        if (N % i == 0) {
-            faktor += i;
-        } else {
-            continue;
-        }
+  for (int i = 0; i <= N / 2; i++) {
+    if (N % i == 0) {
+      isPrime = 0;
     }
+  }
 
-    printf("%d\n", faktor);
+  if (isPrime) {
+    printf("Bilangan prima\n");
+  } else {
+    printf("Bukan bilangan prima\n");
 
-    if (faktor >= 0) {
-        if (faktor == (N + 1)) {
-            printf("Bilangan prima");
-        } else if (N == 2) {
-            printf("Bilangan Prima");
-        } else if (N == 3) {
-            printf("Bilangan prima");
-        } else {
-            printf("Bukan Bilangan prima");
-        }
-    } else {
-        printf("Bukan Bilangan prima");
-    }
+  }
 
+  return 0;
+}
     return 0;
 
 
