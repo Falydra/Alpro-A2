@@ -1,5 +1,7 @@
 #include <stdio.h>
-
+// Nama File : bilangan_sempurna.c 
+// Deskripsi : Mengidentifikasi jenis suatu bilangan yang mana bilangan tersebut adalah bilangan sempurna atau lainnya.
+// Pembuat  : Daffa Aly Meganendra - 24060122140140
 
 int main () {
     int N;
