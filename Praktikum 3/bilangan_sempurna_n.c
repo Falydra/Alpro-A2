@@ -1,4 +1,7 @@
 #include <stdio.h>
+// Nama File : bilangan_sempurna_n.c 
+// Deskripsi : Menampilkan bilangan sempurna sampai ke-n.
+// Pembuat  : Daffa Aly Meganendra - 24060122140140
 
 int main () {
   int n;
