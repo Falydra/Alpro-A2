@@ -4,12 +4,15 @@
 // Pembuat  : Daffa Aly Meganendra - 24060122140140
 
 int main () {
+  //Kamus
   int n;
   int total;
 
 printf("Masukan Nilai n: ");
 scanf("%d", &n);
-
+  
+  
+  //Algoritma
   if (n > 0 ) {
     for (int i = 1; i < n; i ++) {
       total = 0;
