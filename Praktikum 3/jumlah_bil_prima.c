@@ -1,9 +1,16 @@
 #include <stdio.h>
+// Nama File : jumlah_bil_prima.c 
+// Deskripsi : Menampilkan bilangan prima sampai ke-n.
+// Pembuat  : Daffa Aly Meganendra - 24060122140140
 
 
 int main() {
-  int n; // 14
+  //Kamus
+  int n;
   int isPrime;
+  
+  
+  //Algoritma
 
   printf("N : ");
   scanf("%d", &n);
